@@ -2,6 +2,8 @@
 
 项目目的是为了解决使用 App 获取数据，核心的思路是通过 Appium 模拟操作 App 的同时，使用 mitmproxy 作为中间人代理解析或者获取相关的 request 以及 response。
 
+**注意⚠️**，本次使用测试 App 为豆果美食（版本为 6.9.45.2）
+
 ## Requirements
 
 * [Appium](https://github.com/appium/appium-desktop/releases) 以及 Appium-Client
